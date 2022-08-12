@@ -6,7 +6,6 @@ firebase.initializeApp({
     projectId: "angular-7ac19",
     storageBucket: "angular-7ac19.appspot.com",
     messagingSenderId: "963144178352",
-    appId: "1:963144178352:web:dd548637e8a45fba723975",
-    vapidKey: "BLqFX4w6B49qlT0hamToWvA8EBvor3drdrUknn-PVjaT2uNrBFdVTQVRmNiDaFYYe7JjofmmjGVPAGldK_PZY-4"
+    appId: "1:963144178352:web:dd548637e8a45fba723975"
 });
 const messaging = firebase.messaging();
